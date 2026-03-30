@@ -1852,3 +1852,94 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.30-14.38.58:592][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.30-14.38.58:592][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.30-14.38.58:592][873]AssetCheck: /Game/Variant_Horror/Lvl_Horror Validating asset
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: ================================================
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Total job queries 18.414, among them cache hits 2.582 (14.02%), DDC hits 12.361 (67.13%), Duplicates 2.830 (15.37%)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Tracking 13.002 distinct input hashes that result in 11.896 distinct outputs (91.49%)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: RAM used: 158,76 MiB of 409,60 MiB budget. Usage: 38.76%
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Shaders Compiled: 641
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Jobs assigned 641, completed 641 (100%)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Average time worker was idle: 2.80 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Time job spent in pending queue: average 10.70 s, longest 64.71 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Job execution time: average 12.80 s, max 53.13 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Job life time (pending + execution): average 23.50 s, max 70.24
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Shader code size: total 9,958 MiB, numShaders 665, average 15,334 KiB, min 2,246 KiB, max 55,505 KiB
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 166.14 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Jobs were issued in 189 batches (only local compilation was used), average 3.39 jobs/batch
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Average processing rate: 3.86 jobs/sec
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Total thread time: 1.201,875 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Total thread preprocess time: 266,5 s
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Percentage time preprocessing: 22.17%
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Effective parallelization: 7.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.904268
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 8.56 sec, max 8.56 sec, min 8.56 sec)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 5.60 sec, max 6.96 sec, min 4.78 sec)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 5.22 sec, max 6.18 sec, min 4.28 sec)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 5.11 sec, max 7.85 sec, min 3.05 sec)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 4.66 sec, max 8.35 sec, min 1.30 sec)
+[2026.03.30-14.41.10:684][318]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 34.03% of total time (compiled   80 times, average 5.11 sec, max 7.85 sec, min 3.05 sec)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.20% of total time (compiled   16 times, average 4.66 sec, max 8.35 sec, min 1.30 sec)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.65% of total time (compiled   50 times, average 1.36 sec, max 4.96 sec, min 0.39 sec)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.45% of total time (compiled   23 times, average 2.33 sec, max 4.91 sec, min 1.35 sec)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.85% of total time (compiled   50 times, average 0.93 sec, max 3.31 sec, min 0.32 sec)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: === Material stats ===
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Materials Translated:    149
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Material Translation Only: 0.18 s (59%)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.30-14.41.10:685][318]LogShaderCompilers: Display: ================================================
+[2026.03.30-14.43.39:288][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.103363
+[2026.03.30-14.43.40:256][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-14.43.40:277][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 347.770386, Update Interval: 327.170013
+[2026.03.30-14.49.10:230][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 678.076721
+[2026.03.30-14.49.10:510][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-14.49.10:510][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.339539, Update Interval: 312.638336
+[2026.03.30-14.50.28:028][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2026.03.30-14.50.28:107][523]LogStall: Shutdown...
+[2026.03.30-14.50.28:109][523]LogStall: Shutdown complete.
+[2026.03.30-14.50.28:185][523]LogSlate: Window 'CoCreate2077 - Unreal Editor' being destroyed
+[2026.03.30-14.50.28:431][523]Cmd: QUIT_EDITOR
+[2026.03.30-14.50.28:431][523]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.30-14.50.28:445][524]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.30-14.50.28:451][524]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.30-14.50.28:452][524]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.30-14.50.28:476][524]LogWorld: UWorld::CleanupWorld for Lvl_Horror, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-14.50.28:478][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-14.50.28:479][524]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Horror/Lvl_Horror.Lvl_Horror
+[2026.03.30-14.50.28:530][524]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.30-14.50.28:534][524]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.30-14.50.28:547][524]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.30-14.50.28:580][524]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-14.50.28:580][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-14.50.28:593][524]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.30-14.50.28:596][524]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.30-14.50.28:610][524]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.30-14.50.28:631][524]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.30-14.50.28:633][524]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.30-14.50.28:633][524]LogAudio: Display: Audio Device unregistered from world 'Lvl_Horror'.
+[2026.03.30-14.50.28:635][524]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.30-14.50.28:643][524]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.30-14.50.28:650][524]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.30-14.50.28:691][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.30-14.50.28:692][524]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.30-14.50.28:697][524]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2026.03.30-14.50.28:708][524]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.30-14.50.28:712][524]LogExit: Preparing to exit.
+[2026.03.30-14.50.28:841][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.30-14.50.30:281][524]LogEditorDataStorage: Deinitializing
+[2026.03.30-14.50.30:768][524]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.30-14.50.31:001][524]LogExit: Editor shut down
+[2026.03.30-14.50.31:028][524]LogExit: Transaction tracking system shut down
+[2026.03.30-14.50.32:017][524]LogExit: Object subsystem successfully closed.
+[2026.03.30-14.50.32:040][524]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.30-14.50.32:770][524]LogMemoryProfiler: Shutdown
+[2026.03.30-14.50.32:772][524]LogNetworkingProfiler: Shutdown
+[2026.03.30-14.50.32:772][524]LoadingProfiler: Shutdown
+[2026.03.30-14.50.32:773][524]LogTimingProfiler: Shutdown
+[2026.03.30-14.50.32:785][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.30-14.50.32:785][524]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...

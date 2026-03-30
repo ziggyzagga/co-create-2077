@@ -1167,3 +1167,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.30-14.34.27:962][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.770325
 [2026.03.30-14.34.28:961][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.30-14.34.28:962][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 686.436646, Update Interval: 333.485535
+[2026.03.30-14.35.34:443][933]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.30-14.35.39:341][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-14.35.39:382][222]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ
+[2026.03.30-14.35.39:383][222]LogSavePackage: Moving '../../../../../../Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Saved/DLNCFC4C5RQ8EDPCDYCKHQ0C886A494930896C2F70B4B6508A297C.tmp' to '../../../../../../Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset'
+[2026.03.30-14.35.39:396][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.054 ms
+[2026.03.30-14.35.39:428][222]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.30-14.35.39:428][222]LogContentValidation: Enabled validators:
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.30-14.35.39:428][222]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.30-14.35.39:445][222]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Saved/SourceControl/UncontrolledChangelists.json

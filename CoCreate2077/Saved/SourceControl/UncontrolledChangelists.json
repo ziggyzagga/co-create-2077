@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1P/9L2WO9KPZ520EHI7QQLCB3.uasset",
+				"C:/Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2Z/OZHSP52GW6KU4XM4301OFG.uasset",
+				"C:/Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/RC/IG9RH6PYFEMBU3TW6ZHFC6.uasset"
+			]
+		}
+	]
+}

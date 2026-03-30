@@ -1182,3 +1182,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.30-14.35.39:428][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.30-14.35.39:428][222]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2026.03.30-14.35.39:445][222]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/bogda/Documents/Unreal Projects/Co-Create 2077/CoCreate2077/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.30-14.40.10:080][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1027.889771
+[2026.03.30-14.40.11:081][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-14.40.11:081][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1028.556519, Update Interval: 323.835571

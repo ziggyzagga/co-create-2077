@@ -1107,3 +1107,163 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.31-11.03.46:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
 [2026.03.31-11.03.46:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2026.03.31-11.03.46:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.03.31-11.03.46:773][  0]LogCollectionManager: Loaded 0 collections in 0.002413 seconds
+[2026.03.31-11.03.46:776][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Saved/Collections/' took 0.00s
+[2026.03.31-11.03.46:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Content/Developers/Aliİmran/Collections/' took 0.00s
+[2026.03.31-11.03.46:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Content/Collections/' took 0.00s
+[2026.03.31-11.03.46:876][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.03.31-11.03.46:876][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2026.03.31-11.03.46:876][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.03.31-11.03.46:876][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2026.03.31-11.03.46:916][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2026.03.31-11.03.46:916][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.03.31-11.03.46:916][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.03.31-11.03.46:916][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2026.03.31-11.03.46:940][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-41373641 booting at 2026-03-31T11:03:46.940Z using C
+[2026.03.31-11.03.46:941][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.7920.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=CoCreate2077, ProductVersion=++UE5+Release-5.6-CL-44394996, IsServer=false, Flags=DisableOverlay]
+[2026.03.31-11.03.46:944][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.03.31-11.03.46:947][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.03.31-11.03.46:962][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.03.31-11.03.46:967][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.03.31-11.03.46:967][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.03.31-11.03.46:967][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000624
+[2026.03.31-11.03.47:057][  0]LogUObjectArray: 43253 objects as part of root set at end of initial load.
+[2026.03.31-11.03.47:057][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.03.31-11.03.47:250][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/IrisCore.InstancedStructNetSerializerConfig. Time(ms): 1.0
+[2026.03.31-11.03.47:298][  0]LogAutomationTest: Error: Condition failed
+[2026.03.31-11.03.47:298][  0]LogAutomationTest: Error: Condition failed
+[2026.03.31-11.03.47:350][  0]LogEngine: Initializing Engine...
+[2026.03.31-11.03.47:602][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.03.31-11.03.47:604][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2026.03.31-11.03.48:007][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.03.31-11.03.48:036][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.03.31-11.03.48:054][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.03.31-11.03.48:084][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.03.31-11.03.48:084][  0]LogInit: Texture streaming: Enabled
+[2026.03.31-11.03.48:101][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.6.1-44394996+++UE5+Release-5.6 )
+[2026.03.31-11.03.48:105][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.03.31-11.03.48:118][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.03.31-11.03.48:119][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.03.31-11.03.48:119][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.03.31-11.03.48:119][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-11.03.48:119][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-11.03.48:119][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-11.03.48:120][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-11.03.48:120][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-11.03.48:120][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-11.03.48:136][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-11.03.48:498][  0]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2026.03.31-11.03.48:499][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-11.03.48:501][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-11.03.48:501][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-11.03.48:502][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.31-11.03.48:502][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.31-11.03.48:505][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.31-11.03.48:505][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.03.31-11.03.48:505][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.03.31-11.03.48:506][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.03.31-11.03.48:506][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.03.31-11.03.48:518][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.03.31-11.03.48:525][  0]LogInit: Undo buffer set to 256 MB
+[2026.03.31-11.03.48:525][  0]LogInit: Transaction tracking system initialized
+[2026.03.31-11.03.48:545][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-11.03.48:659][  0]LocalizationService: Localization service is disabled
+[2026.03.31-11.03.48:789][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1920"
+[2026.03.31-11.03.48:789][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resy="1080"
+[2026.03.31-11.03.48:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Content/' took 0.04s
+[2026.03.31-11.03.49:020][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.03.31-11.03.49:020][  0]LogPython: Using Python 3.11.8
+[2026.03.31-11.03.49:140][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.03.31-11.03.49:509][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (16 permutations).
+[2026.03.31-11.03.49:743][  0]LoadErrors: Error: Collision Profile settings do not include an entry for the Water Body Collision profile, which is required for water collision to function. Add entry to DefaultEngine.ini?
+[2026.03.31-11.03.49:792][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.03.31-11.03.50:204][  0]LogTexture: Display: Building textures: /Water/Icons/WaterSprite.WaterSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.03.31-11.03.50:212][  0]LogTexture: Display: Building textures: /Water/Icons/WaterLandscapeBrushSprite.WaterLandscapeBrushSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.03.31-11.03.50:219][  0]LogTexture: Display: Building textures: /Water/Icons/WaterErrorSprite.WaterErrorSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.03.31-11.03.50:302][  0]LogEditorDataStorage: Initializing
+[2026.03.31-11.03.50:345][  0]LogEditorDataStorage: Initialized
+[2026.03.31-11.03.50:372][  0]LogCore: Display: GameplayInsights module auto-connecting to local trace server...
+[2026.03.31-11.03.50:447][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.03.31-11.03.50:575][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.03.31-11.03.50:611][  0]SourceControl: Revision control is disabled
+[2026.03.31-11.03.50:611][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.801
+[2026.03.31-11.03.50:635][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.31-11.03.50:664][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-11.03.50:678][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-11.03.50:705][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1199.38 ms.
+[2026.03.31-11.03.50:713][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1154.63 ms.
+[2026.03.31-11.03.50:746][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1239.80 ms.
+[2026.03.31-11.03.50:769][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1228.62 ms.
+[2026.03.31-11.03.50:780][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1274.12 ms.
+[2026.03.31-11.03.50:794][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-11.03.50:796][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1255.48 ms.
+[2026.03.31-11.03.50:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2026.03.31-11.03.50:883][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1377.82 ms.
+[2026.03.31-11.03.50:893][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1387.79 ms.
+[2026.03.31-11.03.51:060][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1514.88 ms.
+[2026.03.31-11.03.51:437][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1219.24 ms.
+[2026.03.31-11.03.51:554][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1344.83 ms.
+[2026.03.31-11.03.51:843][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1096.56 ms.
+[2026.03.31-11.03.51:846][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1107.41 ms.
+[2026.03.31-11.03.51:876][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1171.03 ms.
+[2026.03.31-11.03.51:893][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1146.39 ms.
+[2026.03.31-11.03.51:923][  0]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 1134.64 ms.
+[2026.03.31-11.03.52:067][  0]LogAssetRegistry: Display: Asset registry cache written as 85.5 MiB to ../../../../../../Users/Ali imran/Documents/GitHub/Co-Create-2077/CoCreate2077/Intermediate/CachedAssetRegistry_*.bin
+[2026.03.31-11.03.52:303][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-11.03.52:305][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-11.03.52:317][  0]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.31-11.03.52:317][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-11.03.52:318][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-11.03.52:474][  0]LogWorldPartition: Display: WorldPartition initialize took 157.211 ms
+[2026.03.31-11.03.52:526][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2026.03.31-11.03.52:577][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.31-11.03.52:580][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.31-11.03.52:588][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7,028ms to complete.
+[2026.03.31-11.03.52:619][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.810
+[2026.03.31-11.03.52:625][  0]LogShaderCompilers: Display: ================================================
+[2026.03.31-11.03.52:625][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.31-11.03.52:625][  0]LogShaderCompilers: Display: Total job queries 2.334, among them cache hits 564 (24.16%), DDC hits 1.500 (64.27%), Duplicates 153 (6.56%)
+[2026.03.31-11.03.52:625][  0]LogShaderCompilers: Display: Tracking 1.617 distinct input hashes that result in 1.000 distinct outputs (61.84%)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: RAM used: 9,06 MiB of 409,60 MiB budget. Usage: 2.21%
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Shaders Compiled: 117
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Average time worker was idle: 0.69 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 2.10 s, longest 6.33 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Job execution time: average 2.64 s, max 5.78 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 4.75 s, max 8.09
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Shader code size: total 636,23 KiB, numShaders 121, average 5,258 KiB, min 1,395 KiB, max 15,168 KiB
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.72 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 2.92 jobs/batch
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Average processing rate: 10.91 jobs/sec
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Total thread time: 73,351 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Total thread preprocess time: 41,069 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Percentage time preprocessing: 55.99%
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Effective parallelization: 6.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 9 - 0.760064
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 3.10 sec, max 4.43 sec, min 1.77 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor (compiled    2 times, average 2.82 sec, max 4.04 sec, min 1.60 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 1.72 sec, max 4.08 sec, min 0.82 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.44 sec, max 2.24 sec, min 0.63 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.07 sec, max 1.10 sec, min 1.02 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                                  FVelocityPS - 9.39% of total time (compiled    4 times, average 1.72 sec, max 4.08 sec, min 0.82 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.45% of total time (compiled    2 times, average 3.10 sec, max 4.43 sec, min 1.77 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor - 7.68% of total time (compiled    2 times, average 2.82 sec, max 4.04 sec, min 1.60 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.81% of total time (compiled    4 times, average 1.07 sec, max 1.10 sec, min 1.02 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.62% of total time (compiled    4 times, average 1.03 sec, max 1.18 sec, min 0.96 sec)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: === Material stats ===
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Materials Translated:    142
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Material Translation Only: 0.08 s (47%)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: Material Cache Hits: 24 (17%)
+[2026.03.31-11.03.52:626][  0]LogShaderCompilers: Display: ================================================

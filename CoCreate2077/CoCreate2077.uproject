@@ -16,7 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WaterExtras",
+			"Name": "Landmass",
 			"Enabled": true
 		},
 		{
@@ -24,7 +24,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Buoyancy",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterAdvanced",
 			"Enabled": true
 		}
 	]

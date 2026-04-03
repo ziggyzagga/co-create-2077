@@ -76,3 +76,6 @@ DerivedDataCache/*
 
 # Editor Preferences
 EditorPerProjectUserSettings.ini
+
+# Logs
+*.log

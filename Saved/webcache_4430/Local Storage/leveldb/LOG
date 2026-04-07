@@ -1,5 +1,6 @@
-2026/04/05-17:47:04.810 15cc Reusing MANIFEST C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/05-17:47:04.847 15cc Recovering log #3
-2026/04/05-17:47:04.848 15cc Level-0 table #3: started
-2026/04/05-17:47:04.856 15cc Level-0 table #3: 66818 bytes OK
-2026/04/05-17:47:04.860 15cc Delete type=0 #3
+2026/04/07-04:53:59.458 5758 Reusing MANIFEST C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/07-04:53:59.478 5758 Recovering log #4
+2026/04/07-04:53:59.480 5758 Reusing old log C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/04/07-04:55:35.599 226c Level-0 table #7: started
+2026/04/07-04:55:35.664 226c Level-0 table #7: 72487 bytes OK
+2026/04/07-04:55:35.669 226c Delete type=0 #4

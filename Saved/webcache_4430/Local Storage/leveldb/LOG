@@ -1,6 +1,2 @@
-2026/04/07-04:53:59.458 5758 Reusing MANIFEST C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/07-04:53:59.478 5758 Recovering log #4
-2026/04/07-04:53:59.480 5758 Reusing old log C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/000004.log 
-2026/04/07-04:55:35.599 226c Level-0 table #7: started
-2026/04/07-04:55:35.664 226c Level-0 table #7: 72487 bytes OK
-2026/04/07-04:55:35.669 226c Delete type=0 #4
+2026/04/08-13:06:41.258 9dc Creating DB C:/Users/Cori/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/08-13:06:41.266 9dc Reusing MANIFEST C:/Users/Cori/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

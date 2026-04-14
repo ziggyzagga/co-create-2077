@@ -1,3 +1,4 @@
-[0410/075337.133:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Belirtilen durumda kullaným için anahtar geçerli deðil. (0x8009000B)
-[0410/075339.092:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0410/075537.616:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0412/195842.573:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0412/195843.246:WARNING:storage_block-inl.h(146)] Failed data load.
+[0412/195843.468:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0412/200042.067:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

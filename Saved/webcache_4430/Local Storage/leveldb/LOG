@@ -1,26 +1,2 @@
-2026/05/02-21:04:13.578 988 Reusing MANIFEST C:/Users/Ali imran/Documents/GitHub/Co-Create-2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/02-21:04:13.599 988 Recovering log #34
-2026/05/02-21:04:13.599 988 Level-0 table #38: started
-2026/05/02-21:04:13.607 988 Level-0 table #38: 76059 bytes OK
-2026/05/02-21:04:13.609 988 Delete type=0 #34
-2026/05/02-21:09:18.628 2774 Level-0 table #41: started
-2026/05/02-21:09:18.639 2774 Level-0 table #41: 76058 bytes OK
-2026/05/02-21:09:18.642 2774 Delete type=0 #39
-2026/05/02-21:46:57.879 2a00 Level-0 table #43: started
-2026/05/02-21:46:57.887 2a00 Level-0 table #43: 75443 bytes OK
-2026/05/02-21:46:57.891 2a00 Delete type=0 #40
-2026/05/02-21:48:26.236 1c10 Level-0 table #45: started
-2026/05/02-21:48:26.241 1c10 Level-0 table #45: 74783 bytes OK
-2026/05/02-21:48:26.244 1c10 Delete type=0 #42
-2026/05/02-21:48:26.245 1c10 Compacting 4@0 + 1@1 files
-2026/05/02-21:48:26.253 1c10 Generated table #46@0: 4 keys, 37520 bytes
-2026/05/02-21:48:26.253 1c10 Compacted 4@0 + 1@1 files => 37520 bytes
-2026/05/02-21:48:26.255 1c10 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/02-21:48:26.255 1c10 Delete type=2 #36
-2026/05/02-21:48:26.255 1c10 Delete type=2 #38
-2026/05/02-21:48:26.255 1c10 Delete type=2 #41
-2026/05/02-21:48:26.255 1c10 Delete type=2 #43
-2026/05/02-21:48:26.255 1c10 Delete type=2 #45
-2026/05/02-22:01:16.797 8b8 Level-0 table #48: started
-2026/05/02-22:01:16.806 8b8 Level-0 table #48: 74059 bytes OK
-2026/05/02-22:01:16.810 8b8 Delete type=0 #44
+2026/05/06-16:59:05.625 127f8 Creating DB C:/Users/bogda/Documents/Unreal Projects/Co-Create 2077/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/05/06-16:59:05.635 127f8 Reusing MANIFEST C:/Users/bogda/Documents/Unreal Projects/Co-Create 2077/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
